@@ -1,0 +1,7 @@
+''' Ex_1 Contar nucleotídeos A T C G de uma sequência
+Brenda Uemura      RA:148177              AlgoBio - 2023.1    IB - Shida '''
+
+#contar letras a,c, g, t e armazenar
+#somar o armazenado
+
+print("Insira a sequencia a ser analisada\n")
