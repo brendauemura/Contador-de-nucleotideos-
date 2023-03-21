@@ -1,5 +1,5 @@
 ''' Ex_1 Contar nucleotídeos A T C G de uma sequência
-Brenda Uemura      RA:148177              AlgoBio - 2023.1    IB - Shida '''
+Brenda Uemura                        AlgoBio - 2023.1'''
 
 sequencia = input("Insira a sequência a ser analisada: \n")
 
